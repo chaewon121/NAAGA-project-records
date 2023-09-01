@@ -126,16 +126,4 @@ chat
 
 🤵[기술스택을 선택한 이유](TroubleShoot.md)
 
-## Spring Securtiy
-🔒[Spring Security란?](security/Security.md)
-
-🔑[Spring Security Architectures](security/SecurityArchitectures.md)
-
-## HTTPS
-
-🔒[HTTPS](security/https.md)
-
-## OAuth2
-
-🔒[OAuth2](security/OAuth.md)
 
