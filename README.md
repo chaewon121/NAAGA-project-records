@@ -19,7 +19,7 @@
 ![project_architectures](images/infra_architectures.png)
 
 ## CI/CD
-![CICD](images/CICD.png)
+![CICD](images/CI_CD.png)
 - CI
     - 정기적인 빌드 및 테스트(유닛테스트 및 통합테스트)를 거쳐 공유 레포지터리에 병합되는 과정
 - CD
