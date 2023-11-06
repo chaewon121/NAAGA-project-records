@@ -9,7 +9,7 @@
 - [나아가 Github](https://github.com/woowacourse-teams/2023-naaga)
 
 ## 기술 스택
-![stack](images/stack.png)
+![stack](images/image1.png)
 
 ## 프로젝트 아키텍처
 ![project_architectures](images/project_architectures.png)
