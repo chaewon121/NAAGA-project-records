@@ -11,6 +11,7 @@
 ## 기술 스택
 ![stack](images/image1.png)
 ![stack](images/image2.png)
+![stack](images/stack.png)
 
 ## 프로젝트 아키텍처
 ![project_architectures](images/project_architectures.png)
