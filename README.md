@@ -15,8 +15,9 @@
 ## 백엔드 기술 스택
 ![stack](images/backend_stack.png)
 
-## 프로젝트 아키텍처
-![project_architectures](images/project_architectures.png)
+## 인프라 아키텍처
+![project_architectures](images/infra_architectures.png)
+
 ## CI/CD
 ![CICD](images/CICD.png)
 - CI
