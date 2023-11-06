@@ -8,9 +8,11 @@
 
 - [나아가 Github](https://github.com/woowacourse-teams/2023-naaga)
 
-## 기술 스택
+## 소개
 ![stack](images/image1.png)
 ![stack](images/image2.png)
+
+## 백엔드 기술 스택
 ![stack](images/stack.png)
 
 ## 프로젝트 아키텍처
