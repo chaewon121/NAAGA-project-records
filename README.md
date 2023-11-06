@@ -13,7 +13,7 @@
 ![stack](images/image2.png)
 
 ## 백엔드 기술 스택
-![stack](images/stack.png)
+![stack](images/backend_stack.png)
 
 ## 프로젝트 아키텍처
 ![project_architectures](images/project_architectures.png)
