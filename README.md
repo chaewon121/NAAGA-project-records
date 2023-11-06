@@ -41,75 +41,7 @@
 ## Layered Architecture
 도메인 설계 할 때 도메인을 관심사 별로 묶고 **모듈 간의 의존성은 최소화하고, 응집성은 최대화** 할 수 있도록 Layered Architecture 따라 설계를 하였습니다.
 
-```gherkin
-api
-  ├── article
-  │   ├── application
-  │   ├── domain
-  │   ├── exception
-  │   ├── presentation
-  │   └── query
-  ├── articlefavoritecount
-  │   ├── application
-  │   └── domain
-  ├── articleorganization
-  │   ├── application
-  │   └── domain
-  ├── chatroom
-  │   ├── application
-  │   ├── domain
-  │   ├── presentation
-  │   └── query
-  ├── common
-  │   ├── aop
-  │   ├── config
-  │   └── exception
-  ├── favorite
-  │   ├── application
-  │   ├── domain
-  │   ├── presentation
-  │   └── query
-  ├── member
-  │   ├── application
-  │   └── presentation
-  ├── memberOrganization
-  │   ├── application
-  │   ├── domain
-  │   ├── exception
-  │   └── presentation
-  ├── organization
-  │   ├── application
-  │   ├── domain
-  │   ├── exception
-  │   ├── presentation
-  │   └── query
-  ├── security
-  │   ├── config
-  │   ├── core
-  │   ├── filter
-  │   ├── handler
-  │   ├── oauth2
-  │   │   ├── authentication
-  │   │   ├── provider
-  │   │   └── service
-  │   └── web
-  └── trade
-      ├── application
-      ├── domain
-      └── presentation
-```
-```gherkin
-chat
-  ├── config
-  ├── message
-  │   ├── application
-  │   ├── domain
-  │   └── presentation
-  └── wholeMessage
-      ├── application
-      ├── domain
-      └── presentation
-```
+
 
 # Level 3
   * [도메인 설계](#도메인-설계)
